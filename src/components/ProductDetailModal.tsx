@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useCart } from '../context/CartContext';
 import { PRODUCTS } from '../data/products';
 import { ButterflyMonogram } from './MonarchLogo';
+import { BottleModelViewer } from './BottleModelViewer';
 
 export const ProductDetailModal: React.FC = () => {
   const {
@@ -14,6 +15,7 @@ export const ProductDetailModal: React.FC = () => {
 
   const [quantity, setQuantity] = useState(1);
   const [activeTab, setActiveTab] = useState<'botanicals' | 'ritual' | 'origin'>('botanicals');
+  const [viewMode, setViewMode] = useState<'3d' | 'still'>('3d');
 
   if (!selectedProductId) return null;
 
@@ -46,24 +48,68 @@ export const ProductDetailModal: React.FC = () => {
         </button>
 
         <div className="grid grid-cols-1 lg:grid-cols-12">
-          {/* Left: Dominant Product Photography */}
-          <div className="lg:col-span-6 bg-[#F6EDE3] p-8 md:p-12 flex flex-col justify-between items-center relative border-b lg:border-b-0 lg:border-r border-[#262621]/12">
-            <div className="w-full flex justify-between items-center text-[10px] tracking-[0.25em] uppercase text-[#262621]/60">
-              <span>EDITION {product.number}</span>
-              <span>{product.details.batchSize}</span>
+          {/* Left: 3D Bottle Model Viewer & Product Studio Photography */}
+          <div className="lg:col-span-6 bg-[#F6EDE3] p-6 md:p-8 flex flex-col justify-between items-center relative border-b lg:border-b-0 lg:border-r border-[#262621]/12">
+            {/* Header info + viewMode Switcher */}
+            <div className="w-full flex justify-between items-center text-[10px] tracking-[0.25em] uppercase text-[#262621]/70 mb-4 pb-3 border-b border-[#262621]/10">
+              <div className="flex items-center gap-2">
+                <span className="font-semibold text-[#262621]">EDITION {product.number}</span>
+                <span>·</span>
+                <span>{product.details.batchSize}</span>
+              </div>
+
+              {/* Toggle between 3D Model and Studio Still */}
+              <div className="inline-flex items-center border border-[#262621]/20 bg-[#E1C9B0]/60 p-0.5 rounded-sm">
+                <button
+                  type="button"
+                  onClick={() => setViewMode('3d')}
+                  className={`px-2.5 py-1 text-[9px] font-sans uppercase tracking-wider rounded-sm transition-all ${
+                    viewMode === '3d'
+                      ? 'bg-[#646A48] text-[#E1C9B0] font-semibold shadow-xs'
+                      : 'text-[#262621]/70 hover:text-[#262621]'
+                  }`}
+                >
+                  3D Interactive
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setViewMode('still')}
+                  className={`px-2.5 py-1 text-[9px] font-sans uppercase tracking-wider rounded-sm transition-all ${
+                    viewMode === 'still'
+                      ? 'bg-[#646A48] text-[#E1C9B0] font-semibold shadow-xs'
+                      : 'text-[#262621]/70 hover:text-[#262621]'
+                  }`}
+                >
+                  Studio Still
+                </button>
+              </div>
             </div>
 
-            <div className="my-8 relative group max-w-sm flex items-center justify-center">
-              <img
-                src={product.image}
-                alt={`${product.name} — ${product.expression}`}
-                className="max-h-[460px] w-auto object-contain drop-shadow-[0_20px_30px_rgba(38,38,33,0.25)] transition-transform duration-500 group-hover:scale-105"
-              />
+            {/* Visual Display: 3D Model Viewer or 2D Photography */}
+            <div className="w-full my-auto flex items-center justify-center">
+              {viewMode === '3d' ? (
+                <BottleModelViewer
+                  productId={product.id}
+                  productName={product.name}
+                  expression={product.expression}
+                  fallbackImage={product.image}
+                  defaultModelUrl={product.modelUrl || '/Media/bottle.fbx'}
+                />
+              ) : (
+                <div className="py-6 relative group max-w-sm flex items-center justify-center">
+                  <img
+                    src={product.image}
+                    alt={`${product.name} — ${product.expression}`}
+                    className="max-h-[460px] w-auto object-contain drop-shadow-[0_20px_30px_rgba(38,38,33,0.25)] transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+              )}
             </div>
 
-            <div className="w-full text-center">
+            {/* West Coast Distillation Badge */}
+            <div className="w-full text-center mt-4 pt-3 border-t border-[#262621]/10">
               <div className="inline-flex items-center gap-2 text-[10px] uppercase tracking-[0.25em] text-[#262621]/60">
-                <ButterflyMonogram size={16} color="#262621" />
+                <ButterflyMonogram size={14} color="#262621" />
                 <span>HAND-CRAFTED WEST COAST DISTILLATION</span>
               </div>
             </div>

@@ -40,6 +40,7 @@ export const PRODUCTS: Product[] = [
     accentColor: 'desert-clay',
     accentHex: '#AD6230',
     image: '/assets/brand/cactus-gin.webp',
+    modelUrl: '/Media/bottle.fbx',
     description:
       'A dry, aromatic gin distilled with sun-cured Kalahari prickly pear, wild coastal juniper, rooibos and zesty desert botanicals. Crafted with deep mineral clarity and vibrant succulents.',
     story:

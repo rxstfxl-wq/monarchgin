@@ -54,14 +54,14 @@ export const AboutPage: React.FC = () => {
             </div>
 
             <div className="lg:col-span-6 flex justify-center">
-              <div className="bg-[#F6EDE3] p-4 border border-[#262621]/15 shadow-xl max-w-md w-full">
+              <div className="bg-[#F6EDE3] p-4 border border-[#262621]/15 shadow-xl max-w-lg md:max-w-xl w-full">
                 <img
-                  src="/assets/brand/brand-world.webp"
-                  alt="Monarch Botanical World"
-                  className="w-full aspect-[4/5] object-cover"
+                  src="/Media/Cactus and Lavender Mint Gin Still Life.png"
+                  alt="Cactus and Lavender Mint Gin Still Life"
+                  className="w-full h-auto aspect-[16/9] object-cover"
                 />
                 <div className="mt-3 text-[10px] font-sans tracking-widest uppercase text-[#262621]/60 text-center">
-                  Cactus Botanicals · Red Protea · Coastal Karoo Biome
+                  Cactus Gin &amp; Lavender Mint · Botanical Still Life Study
                 </div>
               </div>
             </div>

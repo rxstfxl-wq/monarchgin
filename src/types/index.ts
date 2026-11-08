@@ -25,6 +25,7 @@ export interface Product {
   accentColor: string;
   accentHex: string;
   image: string;
+  modelUrl?: string;
   description: string;
   story: string;
   botanicals: BotanicalIngredient[];
