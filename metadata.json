@@ -1,0 +1,6 @@
+{
+  "name": "MONARCH GIN — A Spirit For What Comes Next",
+  "description": "An independent luxury botanical spirits house inspired by transformation, archival botanical heritage, and contemporary craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

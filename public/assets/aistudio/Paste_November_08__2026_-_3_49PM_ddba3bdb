@@ -1,0 +1,926 @@
+# MONARCH GIN — Website Design & Development Blueprint
+
+
+
+Creative direction established
+
+4-page website
+
+
+
+The direction for MONARCH should be contemporary botanical luxury: an editorial-style spirits website that feels like a premium fragrance campaign crossed with an independent luxury fashion house.
+
+I would avoid the conventional gin website approach of large navigation bars, excessive product descriptions, generic cocktail photography and busy sections.
+
+Instead, MONARCH should feel immersive, restrained and atmospheric. The products, botanical illustrations, movement and typography should do the talking.
+
+[Brinsley Gin, Crafted for refined moments](https://images.openai.com/static-rsc-4/g6CjFc31NpnRK00l59NdLzJfKZjUvCdI-X6fJ7pxnllV3CC1KrAdzF6dcPCvF-Sc-NjawCqUQKBUYDcnZk6D6oa6LOOjIok2T2Ksmx-rDQ0lnKRq-pvx9I0S1EgvfoFeEFxYNfa0RdEXBQhcRExominR6vUECQ3iGjfDXEkwxLs?purpose=inline)
+
+[Buy Olive Leaf Gin online | Four Pillars Gin  – Four Pillars Gin USA](https://images.openai.com/static-rsc-4/mxvtAG4eMKerv8W1tDxYDi0YjULylrzLBLx-DbkJZ2p-EGSmDt72UnLXSw2mmB86O3XlefoReZzOWwh1C4ThP88Z_9h3apW20LE9Vv6WRX8jFWT2cm4z7DBIbKE3iBWbontH2G4yhA1gK-V1QtZZY6p_kQxu85TI-P_-cSv3CRk?purpose=inline)
+
+[Hailes Gin · Brand Identity & Packaging Design · Fairford Studios — Fairford Studios |  Creative & Digital Marketing](https://images.openai.com/static-rsc-4/AGXXKsnjVjwhBFMgXJPBGjB9IatTa3PU00EeZt_1_GrMK-hx33-bJUJbj-DToApeVEA9Xo8gsP80VnDT1d6SBkRaV7MpHIAZV5SXjUqgV7LKcDM_ZIoocGUGdbj2M_kHDmClo_dE75GSkEEcvTJ-jVqIOgHMK3S0vZzRjGwP5O0?purpose=inline)
+
+11
+
+## 01. Creative direction
+
+Brand: MONARCH GIN\
+Tagline: A SPIRIT FOR WHAT COMES NEXT.\
+Positioning: Botanical spirits × contemporary luxury.
+
+The website should translate the existing identity into a digital experience without losing its distinctive character.
+
+| Element           | Direction                                     |
+| ----------------- | --------------------------------------------- |
+| Background        | Bone / warm ivory                             |
+| Primary text      | Obsidian                                      |
+| Secondary colours | Desert clay, withered olive                   |
+| Accent colours    | Golden pollen, dried rose                     |
+| Typography        | High-contrast editorial serif + neo-grotesque |
+| Photography       | Cinematic, tactile, botanical                 |
+| Layout            | Editorial grid, generous negative space       |
+| Motion            | Slow, deliberate, fluid                       |
+| Overall feeling   | Quiet confidence, transformation, heritage    |
+
+Core design principle: Make the website feel expensive through restraint, not decoration.
+
+## 02. Website architecture
+
+Four primary pages, with a shared navigation and footer.
+
+MONARCH
+
+Site map
+
+HOME
+
+Cinematic introduction · Brand story · Collection · CTA
+
+ABOUT
+
+Origins · Philosophy · Botanicals
+
+SHOP
+
+Collection · Products · Purchase
+
+CONTACT
+
+Enquiries · Stockists · Form
+
+Shared components: Navigation · Age verification · Footer · Cart · Responsive menu
+
+Recommended navigation:
+
+- Left: MONARCH butterfly monogram.
+- Centre: ABOUT / SHOP / CONTACT.
+- Right: CART (0).
+- Optional small tagline beneath the logo.
+- Transparent navigation over the opening hero, transitioning to a bone-coloured solid background when scrolling.
+
+Keep navigation understated. No oversized buttons or unnecessary interface elements.
+
+## 03. Full page wireframes
+
+### PAGE 01 — HOME
+
+Primary experience
+
+The homepage should be the strongest expression of the brand. It needs to introduce MONARCH through atmosphere before asking visitors to purchase anything.
+
+## M
+
+ABOUT　 SHOP　 CONTACT　 BAG (0)
+
+# MONARCH
+
+A SPIRIT FOR WHAT COMES NEXT.
+
+[ FULL-WIDTH CINEMATIC VIDEO ]
+
+SCROLL TO DISCOVER ↓
+
+01 / THE PHILOSOPHY
+
+# A spirit of transformation.
+
+Rooted in nature. Defined by what comes next.
+
+## THE COLLECTION
+
+#### 01 / CACTUS
+
+CLASSIC WEST-COAST BOTANICALS
+
+#### 02 / LAVENDER & MINT
+
+FLORAL & HERBAL EXPRESSION
+
+# Nature, in a different spirit.
+
+DISCOVER THE MONARCH STORY →
+
+MONARCH GIN · INSTAGRAM · CONTACT · © 2026
+
+Conceptual desktop homepage wireframe. Final implementation should use full-bleed photography and refined typography rather than visible boxes.
+
+Section breakdown
+
+01 — Cinematic hero
+
+- Full-screen or near-full-screen horizontal video (16:9).
+- Footage featuring water, sand, glass, botanical details and the MONARCH bottles.
+- Video begins automatically, muted and looped.
+- MONARCH wordmark centred or positioned with generous negative space.
+- Tagline: A SPIRIT FOR WHAT COMES NEXT.
+- Small scroll indicator.
+
+Parallax direction: As the visitor scrolls, the hero remains pinned briefly while the video moves at a slower relative rate than the foreground text. Use a subtle scale and vertical translation to create depth. Avoid aggressive movement.
+
+02 — Brand introduction
+
+Large editorial statement:
+
+Rooted in nature. Defined by transformation.
+
+A short brand introduction, approximately 40–60 words, with a minimal botanical illustration or photographic detail.
+
+03 — Product collection
+
+Two large product panels:
+
+- Cactus Gin — Classic West-Coast Botanicals.
+- Lavender & Mint — Floral & Herbal Expression.
+
+Use large product photography, minimal descriptions and understated product links.
+
+04 — Brand philosophy / butterfly
+
+A full-width editorial section featuring the butterfly monogram or botanical illustration.
+
+Headline:
+
+Every transformation begins somewhere.
+
+Supporting text introduces the butterfly as the symbol of renewal, movement and the promise of tomorrow.
+
+05 — Closing CTA
+
+A large photographic composition with the bottles.
+
+Discover a different spirit.
+
+Button/link: EXPLORE THE COLLECTION.
+
+06 — Footer
+
+Minimal footer with logo, navigation, social links, contact information, legal links and responsible drinking statement.
+
+### PAGE 02 — ABOUT
+
+The About page should read like a luxury editorial feature, not a corporate company profile.
+
+MONARCH
+
+HOME　 SHOP　 CONTACT
+
+# THE ART OF TRANSFORMATION.
+
+BOTANICAL SPIRITS · EST. 2026
+
+OUR STORY
+
+# Nature is never standing still.
+
+Brand narrative and philosophy.
+
+[ BOTANICAL EDITORIAL IMAGE ]
+
+# A symbol of becoming.
+
+The butterfly. Renewal. Movement. Transformation.
+
+## THE BOTANICALS
+
+NATURE · CRAFT · EXPRESSION
+
+## Discover the collection →
+
+About page layout direction.
+
+Section breakdown
+
+1. Editorial hero: Full-width botanical imagery, headline and introductory statement.
+2. Our philosophy: Brand origin, inspiration and meaning behind MONARCH.
+3. The symbol: Butterfly monogram, transformation and visual identity.
+4. Botanical heritage: Natural ingredients, flavour inspiration and approach to gin-making. Only publish verified production and sourcing claims.
+5. The collection: Introduce the individual gin expressions.
+6. Closing CTA: Explore the collection.
+
+Visual treatment: alternate between large images, open editorial typography and restrained text blocks. Avoid conventional icon grids and corporate timeline graphics.
+
+### PAGE 03 — SHOP
+
+The Shop page should be simple and product-led. It should feel like an online luxury catalogue.
+
+MONARCH
+
+HOME　 ABOUT　 CONTACT　 BAG (0)
+
+THE MONARCH COLLECTION
+
+# Botanical spirits.
+
+A COLLECTION OF DISTINCT EXPRESSIONS.
+
+[Desert Bloom Prickly Pear Gin – Santa Fe Spirits](https://images.openai.com/static-rsc-4/hExjZoS0cAaGYWNlAFkpue1RWpXoyR_LQrAIcrJqDGqa5hyo5zvQ5Vuj2u0EK7D1s0KyEonFiqKQAZJCOe_kl0jskQJWL7W04Ax-S0rNxDR6JSfemiWXLh4EcyRPQyiMpwda3rcSi9PDMisPXCHVOOoaDyzMmtDJfNu3H_NFtIY?purpose=inline)
+
+#### 01 / CACTUS GIN
+
+CLASSIC WEST-COAST BOTANICALS
+
+VIEW PRODUCT →
+
+[Gordon Castle Botanical Gin By Gordon Castle Scotland](https://images.openai.com/static-rsc-4/XpcarQFg5-gGpe1rZifc6MYnetG_-Ly3UVFPMfgc0RiLfzklvSzOg4Pwi-IjQm-GpdZ4yNHue2SkVKUuJzu8F7avOUHyFeDYM_hZ9y38ER5fs_Bc3MGHP-AP07f95ykKC0Hu7V6TqVchp-CL9kj0LAOwd3UzjtGZqTPcPPeNd_w?purpose=inline)
+
+#### 02 / LAVENDER & MINT
+
+FLORAL & HERBAL EXPRESSION
+
+VIEW PRODUCT →
+
+A SPIRIT FOR WHAT COMES NEXT.
+
+Shop landing page wireframe. The actual supplied product photographs should replace the illustrative image references.
+
+Shop functionality
+
+- Two-column desktop product grid.
+- Single-column or two-column responsive mobile grid.
+- Product photography as the dominant visual.
+- Product name, expression and price.
+- View Product action.
+- Shopping bag/cart.
+- Product availability indicator.
+
+Individual product detail template
+
+Each product should have its own detail view, without requiring another main navigation page.
+
+- Large product photograph.
+- Product name and expression.
+- Bottle size and verified ABV.
+- Price.
+- Quantity selector.
+- Add to Cart.
+- Product story.
+- Botanical profile.
+- Serving suggestion.
+- Delivery information.
+- Related product.
+
+Checkout should be integrated with a suitable ecommerce provider rather than simulated. Age verification, responsible drinking messaging, legal terms and South African alcohol-sale requirements must be properly implemented.
+
+### PAGE 04 — CONTACT
+
+The Contact page should be the quietest page on the site.
+
+MONARCH
+
+HOME　 ABOUT　 SHOP
+
+# Let's connect.
+
+ENQUIRIES · COLLABORATIONS · STOCKISTS
+
+GENERAL ENQUIRIES
+
+NAME
+
+EMAIL ADDRESS
+
+SUBJECT
+
+MESSAGE
+
+SEND ENQUIRY →
+
+## Find your way to MONARCH.
+
+EMAIL · INSTAGRAM · STOCKIST ENQUIRIES
+
+Contact page wireframe.
+
+Section breakdown
+
+1. Minimal page heading.
+2. Short introductory copy.
+3. Contact form: name, email, subject, message.
+4. Dedicated stockist / trade enquiries.
+5. Email and Instagram links.
+6. Shared footer.
+
+Form requirements: validation, submission confirmation, spam protection and secure message delivery.
+
+## 04. Global interaction and motion system
+
+Motion is a major part of making MONARCH feel premium, but every animation should have a purpose.
+
+| Element            | Behaviour                                    |
+| ------------------ | -------------------------------------------- |
+| Hero video         | Slow parallax on vertical scroll             |
+| Navigation         | Transparent to solid bone background         |
+| Page transitions   | Subtle fade / slight vertical movement       |
+| Product images     | Gentle scale on hover                        |
+| Product cards      | Image reveal and understated text transition |
+| Text               | Gentle fade-up as sections enter viewport    |
+| Botanical elements | Very subtle independent parallax             |
+| Buttons            | Underline or colour transition               |
+| Cart               | Slide-in side panel                          |
+| Mobile menu        | Full-screen editorial overlay                |
+
+### The signature homepage interaction
+
+[Hills&Harbour Gin - 70cl – Galloway Distillery](https://images.openai.com/static-rsc-4/WwZwfip2Y0M-ZM-z92kHY4DTEbIHbVkI3Pr5BlbOmoLAFrvrdjy3FYv-Gvxvt_vgyxsNwn5BQiTp-7qxSxRnauYObr18tsfk8WMZm3gYtn7PJApe54RiLQnlwNk9TBF_teLD03oxop7JzRHNi4moQr4-TnXfoTAVHbZnDXq_9jw?purpose=inline)
+
+[Waves closeup shot](https://images.openai.com/static-rsc-4/adSjVSc-NzLfwR-vAbakh2X0dnRZTww7WiOs1ibkFh7D9jW_5nXF8eLK2yANcCJRI-W7OxT2DDOKaXC2AnXtpSGYJDvq7mM9sHzecngMavz_TN07TLH478gN8FSiTN57zRqckiiwPbtK6HkThtUdS0oTnRntflPYG8-o8z_IYZacWb69m_wjYaoP0iCHriis?purpose=inline)
+
+[Jazz up you Gin - botanical infusions fit for the summer](https://images.openai.com/static-rsc-4/ZiyXfh6-Q4E9HPCP8SFuatNTf2Hx7dYqsFtwoTgLBDRXJT9YpQLOc4ajyln0qn97JcpR4rKy8s0ZC0d9mUXg1mFNx_lvj5twR2Ve-aW-UoVFwctYJmpymNAobAtqjU56F3trEOtr_o4ejaTIKDskN6yQtObhH9ZvHoaLPDin26c?purpose=inline)
+
+8
+
+I would make the opening video the defining feature of the website.
+
+How the parallax should work:
+
+1. The visitor enters the homepage and sees a full-screen horizontal video.
+2. The video is positioned as a background layer inside a pinned hero section.
+3. The user scrolls down.
+4. The hero stays temporarily pinned while the video subtly shifts and scales.
+5. The headline and tagline move at a different speed, creating depth.
+6. Once the animation finishes, the next section enters naturally.
+
+The video itself should remain a horizontal 16:9 composition. It should not become a horizontal-scrolling gallery.
+
+Suggested video direction:
+
+- Bottles resting in shallow beach water.
+- Slow-moving foam interacting with the glass.
+- Sand subtly shifting beneath the water.
+- Light reflecting off the bottle shoulders.
+- Botanical shadows moving across the background.
+- Macro details of condensation and glass.
+- Muted, earthy colour grading.
+
+The camera should feel almost stationary. The environment creates the movement.
+
+## 05. Responsive design
+
+The desktop website is the primary art direction, but mobile must receive its own considered composition.
+
+| Component         | Desktop         | Mobile                       |
+| ----------------- | --------------- | ---------------------------- |
+| Navigation        | Horizontal      | Compact menu                 |
+| Hero              | Full viewport   | Full viewport, cropped video |
+| Product grid      | 2 columns       | 1 column                     |
+| Editorial imagery | Full-width      | Edge-to-edge                 |
+| Typography        | Large editorial | Fluid responsive sizing      |
+| Footer            | Multi-column    | Stacked                      |
+| Cart              | Side drawer     | Full-screen drawer           |
+
+The video must have a poster image and mobile-optimised alternative. Respect reduced-motion settings and provide a static alternative for users who disable motion.
+
+## 06. Technical build requirements
+
+My recommendation is to build this as a lightweight, responsive website rather than a complex application.
+
+Suggested technology:
+
+- Frontend: React / Next.js.
+- Styling: Tailwind CSS or custom CSS.
+- Animation: GSAP ScrollTrigger for the pinned parallax hero, with lightweight CSS transitions elsewhere.
+- Ecommerce: Shopify integration or another supported South African ecommerce provider.
+- Content management: Editable product information, pricing, photography and page content.
+- Hosting: Vercel or an equivalent production hosting service.
+
+Important: Google AI should build the actual working website, not simply return a static design or screenshot.
+
+### Required assets
+
+| Asset                               | Purpose                      |
+| ----------------------------------- | ---------------------------- |
+| MONARCH primary logo                | Navigation and footer        |
+| Butterfly monogram                  | Brand icon / favicon         |
+| Cactus Gin product photographs      | Shop and homepage            |
+| Lavender & Mint product photographs | Shop and homepage            |
+| Horizontal cinematic video          | Homepage hero                |
+| Botanical illustrations             | About and editorial sections |
+| Brand colour palette                | Global styling               |
+| Typography files                    | Brand typography             |
+
+Use the original product photography and identity assets wherever possible. Do not recreate or approximate the MONARCH logo.
+
+## 07. Google AI — Website build master prompt
+
+The following is the handover brief I would give Google AI (Gemini) to develop the website. It establishes the brand, page structure, interactions, visual system and technical expectations.
+
+# MONARCH GIN — WEBSITE DESIGN & DEVELOPMENT BRIEF
+
+## PROJECT OVERVIEW
+
+Design and develop a complete, responsive luxury gin website for MONARCH GIN.
+
+Brand tagline: A SPIRIT FOR WHAT COMES NEXT.
+
+MONARCH is a botanical gin brand inspired by transformation, nature, renewal and botanical heritage. Its identity combines archival botanical illustration, contemporary luxury, editorial typography and restrained colour.
+
+The website must feel like an independent luxury fragrance house or contemporary fashion label rather than a conventional alcohol ecommerce website.
+
+The website consists of four primary pages:
+
+1. HOME
+2. ABOUT
+3. SHOP
+4. CONTACT
+
+Develop a fully functioning website, not a static mockup.
+
+---
+
+## 01. BRAND IDENTITY & VISUAL DIRECTION
+
+Use the supplied MONARCH brand identity board as the primary visual reference.
+
+### Colour palette
+
+- Bone: #E1C9B0
+- Obsidian: #262621
+- Desert Clay: #AD6230
+- Withered Olive: #646A42
+- Golden Pollen: #B08B3C
+- Dried Rose: #794338
+
+Use the actual supplied brand colour swatches if their sampled values differ from the approximations above.
+
+### Typography
+
+Primary:\
+High-contrast editorial serif. Elegant, expressive, timeless. Use for large headlines, product names and editorial statements.
+
+Secondary:\
+Modern neo-grotesque sans serif. Use for navigation, descriptions, buttons, labels and functional elements.
+
+Typography should be one of the strongest design features.
+
+Use generous letter spacing for uppercase captions and labels.
+
+### Design principles
+
+- Generous negative space.
+- Restrained editorial layouts.
+- Asymmetrical compositions where appropriate.
+- Large-scale photography.
+- Thin dividers.
+- Minimal borders.
+- Warm neutral backgrounds.
+- Archival botanical illustration.
+- Refined transitions.
+- Organic visual details.
+
+Avoid:
+
+- Generic ecommerce templates.
+- Excessive rounded cards.
+- Bright gradients.
+- Excessive drop shadows.
+- Unnecessary icons.
+- Corporate-style feature grids.
+- Oversized colourful buttons.
+- Generic stock imagery.
+- Overcomplicated navigation.
+
+The result should feel sophisticated, tactile, atmospheric and contemporary.
+
+---
+
+## 02. GLOBAL NAVIGATION
+
+Create a shared responsive navigation component.
+
+Desktop:
+
+- Left: MONARCH butterfly monogram or wordmark.
+- Centre: ABOUT / SHOP / CONTACT.
+- Right: BAG (0).
+
+The navigation should initially be transparent over the homepage hero, then transition into a solid bone background as the visitor scrolls.
+
+On internal pages, use a restrained solid navigation.
+
+Mobile:
+
+- Compact MONARCH logo.
+- Minimal menu icon.
+- Shopping bag icon.
+- Full-screen editorial navigation overlay.
+
+Include subtle hover interactions and active-page indicators.
+
+---
+
+## 03. HOME PAGE
+
+The homepage is the primary brand experience.
+
+### SECTION 01 — CINEMATIC HERO
+
+Create a near-fullscreen hero section.
+
+Use a horizontal 16:9 cinematic video as the background.
+
+Video direction:
+
+- MONARCH gin bottles interacting with shallow beach water.
+- Slow-motion water and foam.
+- Shifting sand.
+- Reflections on the glass.
+- Botanical shadows.
+- Condensation and macro product details.
+- Warm natural light.
+- Earthy, muted grading.
+
+Overlay:\
+MONARCH
+
+A SPIRIT FOR WHAT COMES NEXT.
+
+SCROLL TO DISCOVER
+
+The video must autoplay, loop and remain muted.
+
+Implement scroll-controlled parallax using GSAP ScrollTrigger.
+
+The hero should temporarily remain pinned as the visitor scrolls. Introduce subtle video scaling and movement at a different rate from the foreground typography.
+
+Do not create excessive motion or horizontal page scrolling. The video remains a horizontal composition.
+
+Provide a poster image and a reduced-motion alternative.
+
+### SECTION 02 — BRAND INTRODUCTION
+
+Editorial typography.
+
+Headline:
+
+ROOTED IN NATURE.\
+DEFINED BY TRANSFORMATION.
+
+Supporting copy:
+
+Introduce MONARCH as a botanical spirit shaped by nature, inspired by transformation and created for what comes next.
+
+Use restrained imagery or an archival botanical illustration.
+
+### SECTION 03 — PRODUCT COLLECTION
+
+Display two large product panels.
+
+PRODUCT 001:\
+CACTUS GIN\
+Classic West-Coast Botanicals.
+
+PRODUCT 002:\
+LAVENDER & MINT\
+Floral & Herbal Expression.
+
+Use large product photography, minimal product descriptions and understated links to the Shop.
+
+Use a two-column desktop composition and a responsive mobile layout.
+
+### SECTION 04 — THE MONARCH SYMBOL
+
+Introduce the butterfly monogram.
+
+Headline:
+
+EVERY TRANSFORMATION BEGINS SOMEWHERE.
+
+Supporting content should explain the butterfly as a symbol of renewal, movement and the promise of tomorrow.
+
+Use the actual supplied butterfly logo and botanical artwork.
+
+### SECTION 05 — CLOSING CAMPAIGN
+
+Large editorial product photograph.
+
+Headline:
+
+A SPIRIT FOR WHAT COMES NEXT.
+
+Link:\
+EXPLORE THE COLLECTION →
+
+### SECTION 06 — FOOTER
+
+Include:
+
+- MONARCH logo.
+- Home.
+- About.
+- Shop.
+- Contact.
+- Instagram.
+- Email.
+- Privacy policy.
+- Terms and conditions.
+- Responsible drinking information.
+- Copyright 2026.
+
+---
+
+## 04. ABOUT PAGE
+
+Create an editorial brand story page.
+
+SECTION 01 — HERO
+
+Headline:\
+THE ART OF TRANSFORMATION.
+
+Use a large botanical photograph or illustration.
+
+SECTION 02 — OUR PHILOSOPHY
+
+Headline:\
+NATURE IS NEVER STANDING STILL.
+
+Introduce the brand, its origins and its philosophy.
+
+SECTION 03 — THE SYMBOL
+
+Introduce the butterfly.
+
+Explain the connection between transformation, renewal and the MONARCH identity.
+
+SECTION 04 — BOTANICAL HERITAGE
+
+Explore the botanical inspiration behind the collection.
+
+Use large photography and archival botanical illustrations.
+
+Do not invent ingredient origins, production methods, sustainability claims or distillation information. Use editable placeholders until verified brand information is supplied.
+
+SECTION 05 — THE COLLECTION
+
+Introduce Cactus Gin and Lavender & Mint with product photography.
+
+SECTION 06 — CTA
+
+Headline:\
+DISCOVER A DIFFERENT SPIRIT.
+
+Link to SHOP.
+
+---
+
+## 05. SHOP PAGE
+
+Create a minimal luxury product catalogue.
+
+Header:\
+THE MONARCH COLLECTION
+
+Subheading:\
+A COLLECTION OF DISTINCT EXPRESSIONS.
+
+Display the two products in a two-column desktop grid.
+
+Each product card must contain:
+
+- Product photograph.
+- Product name.
+- Expression.
+- Price.
+- View Product link.
+
+### Individual product detail views
+
+Create a reusable product detail template.
+
+Each product detail view should include:
+
+1. Large product photograph.
+2. Product name and expression.
+3. Product price.
+4. Bottle size.
+5. Verified ABV.
+6. Quantity selector.
+7. Add to Cart.
+8. Product description.
+9. Botanical profile.
+10. Serving suggestions.
+11. Delivery information.
+12. Related product.
+
+Use editable product data rather than hardcoding individual product layouts.
+
+### Ecommerce functionality
+
+Implement:
+
+- Working shopping cart.
+- Quantity adjustments.
+- Add/remove products.
+- Cart subtotal.
+- Checkout integration.
+- Product availability.
+- Responsive cart drawer.
+
+Use Shopify or an appropriate supported ecommerce backend.
+
+Do not simulate successful purchases or payment processing.
+
+Include age verification and responsible drinking information. Configure the ecommerce experience for applicable South African alcohol-sale requirements.
+
+---
+
+## 06. CONTACT PAGE
+
+Create a minimal editorial contact page.
+
+Headline:\
+LET'S CONNECT.
+
+Include a contact form containing:
+
+- Name.
+- Email address.
+- Subject.
+- Message.
+
+Include dedicated enquiry categories:
+
+- General enquiries.
+- Stockist enquiries.
+- Trade and wholesale.
+- Collaborations.
+
+Include editable email and Instagram links.
+
+Implement form validation, spam protection, secure submission and confirmation feedback.
+
+---
+
+## 07. MOTION & INTERACTION
+
+The website should feel fluid, deliberate and premium.
+
+Implement:
+
+- Pinned parallax homepage hero.
+- Subtle scroll-based image movement.
+- Gentle text fade-ins.
+- Page transition effects.
+- Product image hover scaling.
+- Underline transitions on navigation links.
+- Smooth cart drawer.
+- Mobile menu transitions.
+- Subtle botanical image movement.
+
+Use GSAP ScrollTrigger for the main pinned video interaction.
+
+Avoid excessive animation and ensure the website remains performant.
+
+Respect prefers-reduced-motion.
+
+---
+
+## 08. RESPONSIVE REQUIREMENTS
+
+Develop for:
+
+- Desktop: 1440px and above.
+- Laptop: 1024px–1439px.
+- Tablet: 768px–1023px.
+- Mobile: 320px–767px.
+
+Desktop is the primary visual reference, but mobile must have a deliberately designed layout rather than simply shrinking desktop elements.
+
+Ensure:
+
+- Responsive typography.
+- Correct image crops.
+- Optimised video delivery.
+- Touch-friendly navigation.
+- Functional mobile shopping.
+- No horizontal overflow.
+- Accessible contrast and keyboard navigation.
+
+---
+
+## 09. TECHNICAL REQUIREMENTS
+
+Recommended stack:
+
+- Next.js / React.
+- TypeScript.
+- Tailwind CSS or custom CSS.
+- GSAP / ScrollTrigger.
+- Shopify integration or suitable ecommerce backend.
+- Vercel hosting.
+
+Build reusable components for navigation, footer, product cards, product detail pages, cart, age verification and editorial sections.
+
+Use semantic HTML and accessible controls.
+
+Optimise images using modern formats such as WebP or AVIF.
+
+Lazy-load below-the-fold imagery.
+
+Do not load the full-resolution hero video unnecessarily on mobile.
+
+Implement SEO metadata, social sharing metadata, sitemap and analytics integration.
+
+---
+
+## 10. CONTENT & ASSET MANAGEMENT
+
+Use the supplied MONARCH identity board as the source of truth for:
+
+- Logo.
+- Butterfly monogram.
+- Colour palette.
+- Typography direction.
+- Botanical illustrations.
+- Product expressions.
+
+Use supplied original product photography wherever available.
+
+Create clearly labelled placeholders for:
+
+- Hero video.
+- Product photographs.
+- Botanical illustrations.
+- Brand story copy.
+- Contact information.
+- Product prices.
+- Product sizes and ABV.
+- Social links.
+
+All content should be easy to replace without rebuilding the website.
+
+Never recreate the logo using ordinary text if the original logo asset is available.
+
+---
+
+## 11. FINAL DELIVERABLE
+
+Produce:
+
+1. Complete working four-page website.
+2. Responsive desktop, tablet and mobile layouts.
+3. Functional navigation.
+4. Homepage parallax video experience.
+5. Reusable product detail template.
+6. Functional shopping cart.
+7. Ecommerce integration.
+8. Contact form.
+9. Age verification.
+10. Editable content and product data.
+11. SEO-ready page structure.
+12. Deployment instructions.
+
+### FINAL CREATIVE DIRECTION
+
+MONARCH should feel like a world rather than a website.
+
+The experience should be quiet, cinematic, tactile and unmistakably premium.
+
+The photography should lead. Typography should establish character. Animation should create atmosphere. The interface should almost disappear.
+
+A SPIRIT FOR WHAT COMES NEXT.
+
+## 08. My additional creative recommendation
+
+I would introduce one distinctive feature that makes MONARCH memorable: The Butterfly Transition.
+
+[Close up image of a delicate monarch butterfly with intricate brown striped patterns on its wings. Divar kağızı \[67a89a0a46b14760853e\] tərəfindən Wallpaper HD | WidgetClub](https://images.openai.com/static-rsc-4/v5n4DM_hOpOtvLnrRPyVwE59-KoHFlcP3JSVgxGn5yGKBD5RiyrbdhovVWzfegCrgvPqdnqXLl9OLNtHAlg5FFpS8l3o_2XpV145aHC4Y3D7uOVdn7sj1EfECRC99FDw2jphoTxOj_oTVGAj5EHTcUVs1kXU2Lg0TkZKva614vs?purpose=inline)
+
+[Antique illustration of Monarch butterfly (Danaus plexippus)](https://images.openai.com/static-rsc-4/Zddv3fwYPKi0PnlaxZlXq_8hHSSoSw8aoxpxjZieAu9VU6tmQJ7vZ39GW7clHsPqY68EHmsRkNKUjDxktKsIvPVsMZpAsdmIgxoTdYVaY394Oqit6WYq86wNAVd1385SqM-iiWOXoWYBQ4zA1p5YVbFVFz8GE7MAakf-Uh8WfPOZpweouO4dtHQ_Uw8t0zTr?purpose=inline)
+
+[Neutral Monarch Print, Cream Butterfly Photo, Vintage Decor, Monarch Butterfly Art, "antiqued Monarch" - Etsy Canada](https://images.openai.com/static-rsc-4/1oR1ZsX5ZVKzI-n35BSGcx6oB3tAE721tehhCfjONgta1mMnCjTXa0COkkqxIw7kOLP4OF6IaeARSdowksjf8R2vE4vUiU3OtXiTUhbRaqzch-CGxfm3VHO8iLVZlGT2v4GK1zr-25GteaRVXJrMjv_N5jOfEob4ftjl5elVMXU?purpose=inline)
+
+9
+
+Use the butterfly as a recurring visual motif rather than simply a logo:
+
+- On the homepage, a subtle butterfly shadow passes across the opening video.
+- On the About page, the archival butterfly illustration becomes a full-width editorial element.
+- On the Shop page, a tiny butterfly monogram appears as a product detail.
+- During page transitions, a delicate butterfly-wing movement can reveal the next section.
+
+It should never become a gimmick. The symbolism is already embedded in the brand, so the website should bring it to life.
+
+One important note: I can see the MONARCH identity board attached here, but not the additional website reference images mentioned. Those would help refine the exact layout, navigation and motion direction before finalising the visual wireframes.
+
+My recommendation is to build the homepage first, perfect its video experience and typography, and then use that established design system across the other three pages.
